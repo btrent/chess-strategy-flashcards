@@ -1,0 +1,44 @@
+#!/usr/bin/perl
+
+my @lines;
+my @t;
+my $i = 0;
+open(A, 'chess_strategy.txt');
+while(<A>) {
+	next if ($_ =~ /---/ || $_ !~ /[A-Za-z0-9]/);
+	chomp($_);
+	if ($i > 0) {
+		$t[$i] = $_;
+		$i++;
+		if ($i > 2) {
+			#we have a full buffer, so let's process it
+			$img = `./chess_fen.py '$t[0]'`;
+			chomp($img);
+			$img =~ s/Created: \.\/generated_images\///;
+			$img =~ s/Already exists: \.\/generated_images\///;
+			$lines[@lines] = "<img src=\"$img\"><br>$t[3] to move.;$t[1]<br>$t[2]\n";
+			$i = 0;
+		}
+		next;
+	}
+	if ($_ =~ /\/[0-9bBnNkKqQpPrR]+\/[0-9bBnNkKqQpPrR]+ [wb]/) {
+		# if the fen is black, it's easier for anki if we just reverse it here instead of in the fen to png algorithm, which 
+		# does not know anything about flipping the board
+		if ($_ =~ / b /) {
+			$t[3] = 'Black';
+			@tt = split(/ /, $_);
+			$tt[0] = reverse($tt[0]);
+			$t[0] = join(' ', @tt);
+		} else {
+			$t[3] = 'White';
+			$t[0] = $_;
+		}
+		$i = 1;
+	} 
+}
+
+foreach my $x(@lines) {
+	print $x;
+}
+
+close(A);

@@ -1,0 +1,771 @@
+r4rk1/ppqn1ppp/2pb4/8/2PP4/1Q3N2/P4PPP/R1B2RK1 b - - 0 15
+Rfe8
+Dispute the open file.
+2n5/p4p1k/2Pb3p/8/3R1P2/2p3P1/P6P/5K2 w - - 0 33
+Rc4
+Win the pawn.
+r3k2r/pp1qnppp/1bp4n/3pP3/P1NP4/5N2/1B3PPP/R2Q1RK1 w kq - 0 16
+Nd6+
+Knight on an outpost. Stop opponent castling.
+r2qk1nr/ppp2ppp/2np4/bB6/3pP1b1/2P2N2/P4PPP/RNBQ1RK1 w kq - 0 9
+cxd4
+Control the center. Threaten d5.
+q4rk1/1bp1bppp/2np4/2n1p3/1p2P3/2PP1N2/1PBN1PPP/2BQR1K1 w - - 0 15
+d4
+Kick the knight away.
+r1n1nqk1/3b1rbp/p2p1pp1/P1pP3P/2P1PBP1/3B2N1/R5KN/2Q2R2 b - - 0 31
+Rb8
+Rook on an open file.
+8/1p5p/p1k3p1/P1P2p2/2P1bP2/4K1PB/7P/8 w - - 0 41
+Kd4
+Defend the pawn. Centralize the king.
+q3kb1r/1b1n1ppp/4pn2/2p5/1p1P4/1BN1PN2/1P2QPPP/2B2RK1 w k - 0 13
+Nb5
+Defend the knight. Threaten a fork.
+2r5/2r1kpp1/pq1npb1p/1p1p4/3P4/PP1BP3/3QNPPP/3R1RK1 w - - 0 27
+Rc1
+Dispute the open file.
+2r5/5p1k/2q2Pp1/Q6p/P1pR3P/6P1/5P1K/8 b - - 0 44
+c3
+Passed pawns must be pushed.
+---
+3b1r2/1q4k1/n1p1Qpp1/p3p2p/P3P3/2P1BN1P/1P4PK/5R2 w - - 0 33
+Rd1
+Rook on an open file.
+1r5b/pq2pk2/2r3p1/4p2n/2p4R/P1N1BP2/1PP5/K1Q4R w - - 0 28
+Ne4
+Centralize the knight.
+r1bq1rk1/pp2ppbp/3p1np1/8/2PnP3/2N1B3/PP2BPPP/R2Q1RK1 w - - 0 10
+Bxd4
+Dispute the long diagonal.
+2r2rk1/pp1b1ppp/2n1p1n1/1NPp4/P7/2P1q3/2P1BPPP/R1B2RK1 w - - 0 16
+Bxe3
+Develop a piece. Preserve pawn structure.
+8/1p5p/p1k2Kp1/P1P2p2/2P2P2/5bPB/7P/8 w - - 0 44
+Kg7
+Capture h7.
+r1bq1rk1/4bppp/p2p1n2/npp1p3/4P3/2P2N1P/PPBP1PP1/RNBQR1K1 w - c6 0 11
+d4
+Dispute the center. Open lines for development.
+r1b2rk1/pp1nqppp/2p1p3/8/2BP4/P1R1PN2/1P3PPP/3QK2R b K - 0 12
+e5
+Dispute the center. Open lines for development.
+r4rk1/pppq1ppp/2n5/3p4/1b1P4/3QB3/PPP1NPPP/R4RK1 b - - 0 12
+Rfe8
+Rook on an open file.
+r2q1rk1/pp2bppp/2npbn2/8/4Pp2/1NN5/PPP1B1PP/R1BQ1R1K w - - 0 11
+Bxf4
+Develop with a gain in tempo.
+3R4/5p1k/1pq3p1/2p5/P2p3P/3Q1PP1/1P4K1/4r3 b - - 0 38
+Re3
+Pressure on f3. Make the enemy queen passive.
+---
+3n1rk1/p3qpp1/7p/5R2/2Pb2B1/1PNP3P/7P/3Q3K w - - 0 28
+Nd5
+Knight on an outpost with tempo.
+r1bqk1nr/ppp2ppp/2np4/2b5/2BpP3/2P2N2/P4PPP/RNBQ1RK1 w kq - 0 8
+cxd4
+Dispute the center with tempo.
+r1b2rk1/1p1n2pp/p2p1q2/3P2b1/2P1Pp2/2NB4/PP2QBPP/R4R1K b - - 0 18
+Ne5
+Centralize the knight. Open lines for development.
+r1bqkb1r/pp3ppp/2n2n2/2pp4/3P4/2N1PN2/PP3PPP/R1BQKB1R w KQkq - 0 7
+Bb5
+Develop a piece as actively as possible.
+3rr1k1/3n1ppp/2b2n2/3p1BB1/1bp5/2N1PN2/1P3PPP/2RR2K1 w - - 0 22
+Nd4
+Centralize the knight. Knight on an outpost.
+4R3/p1b2p2/1n5p/3k4/5P2/6P1/P3K2P/8 w - - 0 39
+Re7
+Win material.
+3q1r1k/1Q1P2pp/p4b2/2P2R2/6B1/8/5PKP/8 w - - 0 38
+c6
+Defend the pawn on d7. Passed pawns must be pushed.
+r1bqn1k1/1p1nrpp1/p1p4p/3p4/3P4/P2BPN1P/1PQ1NPP1/2R2RK1 b - - 0 16
+Nd6
+Centralize the knight. Improve knight's position. Control key squares.
+r1bq1rk1/pp3ppp/2n2n2/3p4/8/P1NB4/1PP2PPP/R1BQK2R w KQ - 0 11
+0-0
+Secure the king. Get developed.
+r1r3k1/p2bppbp/3p1nP1/q7/2pNP1P1/2N1BP2/PPPQ4/2KR3R b - - 0 16
+fxg6
+Keep the h-file closed.
+---
+2r2r1k/2qbbppp/p2ppn2/1p6/3nPP2/P1N1BBQ1/1PP3PP/3R1R1K w - - 0 16
+Bxd4
+Put the bishop on the long diagonal. Point the bishop at the king.
+r1bqk1nr/ppp2ppp/2np4/b3p3/2B1P3/2P2N2/P2P1PPP/RNBQ1RK1 w kq - 0 7
+d4
+Dispute the center. Open lines for development.
+5r2/3bk1p1/p1pp3r/1pn1p1n1/4P3/1BN1R1P1/PPP2PKN/4R3 b - - 0 29
+Rfh8
+Double on the open file.
+r1bqr1k1/3nbpp1/p3pn1p/1p1p4/3P3B/P1N1PN2/1PQ2PPP/3RKB1R w K - 0 13
+Bd3
+Develop as actively as possible.
+4r3/1b3pkp/5p2/2rpb3/2p5/2N1P1P1/1P1RNP1P/R5K1 w - - 0 30
+Ra7
+Rook on the 7th rank.
+2r2rk1/1p1b1ppp/p1n1p1n1/1NPp4/P7/2P1B3/2P1BPPP/R4RK1 w - - 0 17
+Nd6
+Centralize the knight. Knight on an outpost with gain in tempo.
+r3kb1r/p2q1ppp/1pn2n2/1N1p4/Q7/6P1/PP2PPKP/RNB2R2 w kq - 0 12
+Bf4
+Develop as actively as possible.
+4r1k1/5pp1/pq2pn1p/1p6/3N4/P3P3/1P2QPPP/1R4K1 b - - 0 24
+Rc8
+Rook on an open file.
+rn1q1rk1/pp3ppp/2pb4/8/2QP4/2P2N2/P4PPP/R1B1R1K1 b - - 0 13
+Nd7
+Get developed.
+---
+q4rk1/1bp1bppp/2np4/1pn1p3/4P3/1BPP1N2/1P1N1PPP/2BQR1K1 w - - 0 14
+Bc2
+Defend the pawn on d3. Preserve the bishop pair.
+3r4/4kb1R/p7/1p2p3/1P2Pp2/P7/4B1KP/8 b - - 0 49
+Rd2
+Rook on the 2nd rank.
+r3k2r/p4pp1/1qp2n1p/n1b1p3/6b1/3P1P1N/PPP1Q1PP/RNB1KB1R b KQkq - 0 12
+Bxh3
+Weaken opposing pawn structure.
+1r4k1/p1p2ppp/1q6/2p1p3/8/1PQ2P2/PKP3PP/7R w - - 0 25
+Rd1
+Rook on an open file.
+q1r3k1/1b2bpp1/p3p2p/1p1N4/1PnN4/PQ2PBB1/5PPP/2R3K1 b - - 0 23
+Bxd5
+Preserve the pawn structure.
+r1bqk2r/pp1p1ppp/2n1pn2/1N6/4P3/P1b5/1PP2PPP/R1BQKB1R w KQkq - 0 7
+Nxc3
+Preserve the pawn structure.
+r1b1k2r/pp1n1ppp/2p1p3/q2n2B1/1b1P4/2N1PN2/PP1Q1PPP/R3KB1R w KQkq - 0 9
+Rc1
+Protect c3.
+8/5k2/5r1p/1p2p3/p1n5/P1Pr2B1/1P2R1K1/4R3 b - - 0 43
+Rg6
+Pin a piece.
+r1b1r1k1/1p1nqppp/p1p1p3/8/3P4/2Q1PN2/PP2BPPP/2R2RK1 b - - 0 13
+e5
+Dispute the center. Open lines for development.
+r1bq1rk1/2p1bppp/p2p1n2/np2p3/4P3/1BP2N1P/PP1P1PP1/RNBQR1K1 w - - 0 10
+Bc2
+Preserve the bishop pair. Protect e4.
+---
+r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/2P2N2/P2P1PPP/RNBQK2R w KQkq - 0 6
+d4
+Dispute the center. Open lines for development.
+5rk1/p2q1ppp/1p6/1Nrp4/5B2/6P1/P2QPPKP/3R4 w - - 0 20
+Nd4
+Centralize the knight. Knight protected from enemy pawns.
+rr5k/3q1bbp/3p1pP1/ppnPn3/2pNP1P1/P1P1B1N1/1PB1Q3/R4R1K b - - 0 30
+hxg6
+Repair pawn structure. Control key squares.
+2r3k1/5pp1/p3p2p/1p2q3/4n3/P3P2P/1P2NPP1/1R2Q1K1 w - - 0 28
+Rc1
+Dispute the open file.
+r1b2rk1/pp1nqppp/8/2pp4/3P4/4PN2/PPQ2PPP/R3KB1R w KQ - 0 11
+Bd3
+Develop with a gain in tempo.
+2R5/5p2/p7/1p2p1k1/7r/3BP3/PP4bP/6K1 b - - 0 39
+Bd5
+Centralize the bishop. Avoid skewers. Create threats.
+4rk2/1br2p2/4pQ2/p3P2P/8/2p1P3/2B3P1/6K1 w - - 0 37
+h6
+Passed pawns must be pushed.
+r4r2/1q3pk1/n1p3p1/p3p2p/P1Q1P2b/2P1B2P/1P2R1PK/1N3R2 w - - 0 28
+Nd2
+Improve inactive pieces (the knight is heading to f3).
+r2q1rk1/pppbnppp/3p1n2/bB1P4/4P3/N4N2/PB3PPP/R2Q1RK1 w - - 0 13
+Bxf6
+Weaken pawn structure protecting opponent's king.
+r1bq2k1/1p1nrpp1/p1p4p/3p3n/3P4/P1NBPN2/1PQ2PPP/2R2RK1 b - - 0 14
+Nhf6
+Improve knight's position.
+---
+5k2/p4pp1/2B2n2/6p1/8/P4P2/1P3KPP/8 w - - 0 30
+Ke3
+Centralize the king.
+5r1k/1QPq2pp/5b2/p4R2/6B1/8/5PKP/8 w - - 0 40
+Rf4
+Protect the promotion square.
+3q4/5k1p/1p3bpP/p1n2p2/P1R1p1P1/2P1Q3/2P1B3/7K b - - 0 49
+Be5
+Centralize the bishop. Create entry point for the queen.
+8/3r4/3P3p/pp2k3/7K/P1P5/6P1/3R4 w - - 0 57
+Kh5
+Create a passed pawn.
+r1bq1r1k/pp4pp/n2b4/3N1p2/3Pn3/1Q1B1N2/PP3PPP/R1B1R1K1 b - - 0 13
+Be6
+Pin a piece.
+r2qr1k1/pp2bppp/2n1b3/3pP3/5B2/1NPB4/P1P3PP/R2Q1R1K w - - 0 15
+Nd4
+Centralize the knight.
+r2q1rk1/p3npp1/2p4p/n1b1p3/2P5/3P3P/PP2BP1P/RNBQ1R1K b - - 0 14
+Nf5
+Improve knight's position.
+8/r1p1k3/1p2npp1/2n1p2p/2B1P3/P4P1P/1P1R1NP1/6K1 b - - 0 22
+Nd4
+Knight on an outpost. Limit opponent's rook activity.
+rr5k/2qnbb1p/3p1pp1/ppnP4/2p1PBP1/P1P2NNP/1PB1Q3/R4R1K w - - 0 26
+Nd4
+Centralize the knight. Create threats (against b5).
+---
+rb1q1r1k/pp4pp/n3b3/1N1p1p2/3Pn3/1Q1B1N2/PP1B1PPP/R3R1K1 w - - 0 15
+Rac1
+Rook on an open file.
+r1bq1rk1/ppp1npbp/3pn1p1/4p3/4P2P/2PPNN2/PPB2PP1/R1BQK2R w KQ - 0 12
+h5
+Open the h file for attack.
+r3qr1k/1pnb1pbp/p1pp1np1/3Pp1B1/1PP1P1P1/P1N2Q1P/3N1P2/1R2KB1R b K - 0 14
+Ng8
+Protect the knight. Avoid pins.
+1k1r3r/pp2p1bp/4p1p1/1BP4q/Q1P1p3/3nB2P/PP3PP1/R4RK1 w - - 0 18
+c6
+Open up the opponent's king position.
+1b1r2k1/4rpp1/p2q1n2/2Rp1BB1/Np1P4/nP4P1/5PK1/3QR3 w - - 0 31
+Rh1
+H file attack.
+1r6/1q2rkpp/3Qp3/2Rb1p2/1p1P4/3B1P2/1P4PP/5R1K w - - 0 31
+Rfc1
+Double on the open file.
+r1b2rk1/1pqnppbp/2pp1np1/p7/P2PPB2/2N2N2/1PP1BPPP/R2QR1K1 w - - 0 10
+e5
+Dispute the center. Restrict opponent's space.
+---
+6rk/5Rpp/p2qp3/1p5Q/1P6/P3b3/6PP/5R1K w - - 0 33
+Qf3
+Triple up on the open file.
+1r3r2/1p6/3p1pk1/p1bBp3/P3P1P1/1P1K3R/1P6/5R2 w - - 0 30
+Rfh1
+Double rooks on the open file.
+2k5/2q1bp2/p3p1pp/1p1p4/1P1Pn3/P1rNP3/1Q3PPP/1B3RK1 w - - 0 35
+Nc5
+Discoordinate opponent's heavy pieces.
+8/2r1p1kp/3pQbp1/p2P1p2/P4P2/3B2PK/1r5P/8 b - - 0 40
+Rc1
+Target weak points (h2)
+2rq1rk1/4ppbp/3pb1p1/p3n3/P3P3/2N3P1/1PP1QPBP/R1BR2K1 b - - 0 15
+Nc4
+Improve knight's position. Pressure on opponent's queenside.
+r1b2r1k/1pp4p/n2p1nq1/p2Ppp2/2P1P3/2N2B2/PP1NQPP1/R3K2R b KQ - 0 16
+Nc5
+Improve knight's position. Pressure on opponent's center.
+r1b1r1k1/1p2qppp/p1p2n2/8/3N4/2Q1PB2/PP3PPP/2RR2K1 b - - 0 16
+Bg4
+Exchange for a more active opposing piece.
+r1b2rk1/ppp3bp/4n1p1/3qp3/8/2PP1N2/PPB2PP1/R1BQK2R w KQ - 0 16
+Bb3
+Pressure on the a2-g8 diagonal.
+2Qqb1k1/pp2b2p/r5p1/PN1pNp2/1P1P4/8/5PPP/2R3K1 w - - 0 36
+Qxb7
+Create threats (against the rook on a6, and threatening Rc8).
+1r6/Rb3pkp/5p2/2rpb3/2p5/2N1P1P1/1P1RNP1P/6K1 w - - 0 31
+Nd4
+Centralize the knight. Block opponent's dark square bishop.
+---
+4r1k1/1b1r1p1p/3b1p2/3p4/2p5/2N1P3/1PR1NPPP/3R2K1 b - - 0 26
+Be5
+Centralize the bishop. Exert indirect pressure (on the b2 pawn).
+4rbk1/5pp1/2b1qn1p/2p1pN2/r1P1P3/1pQ2P1N/1P4PP/2BRR2K w - - 0 27
+Ne3
+Defend the pawn on c4. Next centralize with Nd5.
+r4r1k/pppb2bp/2q1n1p1/4p3/8/1BPPBN2/PP2QPP1/R3K2R w KQ - 0 19
+0-0-0
+Complete development. Prepare for kingside attack on the h-file. 
+rn1qkb1r/1p3ppp/p2pbn2/4p3/4PP2/1NN5/PPP1B1PP/R1BQK2R b KQkq f3 0 8
+Qc7
+To support the c4 square. If f5 then ...Bc4.
+2q1rb2/5Qpk/5pNp/B1p2P2/1nP5/7P/1P4P1/3R3K w - - 0 46
+Rd7
+Rook on the 7th rank. Create threats (mate in two).
+2k5/5p2/p3pq1p/1pP3p1/1P2pP2/P1r1P1P1/1Q3K1P/5R2 w - - 0 41
+Rc1
+Pile up on the pinned piece.
+r1bqk1nr/pppp1ppp/2n5/4p3/1bB1P3/5N2/P1PP1PPP/RNBQK2R w KQkq - 0 5
+c3
+Gain tempo. Support d4.
+2r3k1/3Q1p2/1q3Pp1/7p/P2R3P/2p3P1/5P1K/8 b - - 0 47
+Qc5
+Defend the rook on c8 and support the pawn on c3.
+4r1k1/pp1r1ppp/2nq1nb1/6B1/3p4/P2B1P2/1PPRNQPP/5RK1 w - - 0 19
+Rfd1
+Pressure on d4.
+---
+5rk1/pp2qp1p/2p3p1/8/8/PQ1RP2P/1P3PP1/6K1 w - - 0 22
+Qd1
+Double on the open file.
+2k4r/p4pp1/2p4p/4p3/2n4q/1NPrnP1P/PP2Q1BP/R1K4R b - - 0 21
+Rhd8
+Double on the open file.
+r2b1r2/1q3pk1/n1p3p1/p3p2p/P1Q1P3/2P1B2P/1P1NR1PK/5R2 w - - 0 29
+Nf3
+Improve knight's position. Create threats (against e5).
+r2q1rk1/pbn1ppbp/1p4p1/2pPP3/2B2B2/1Q3N2/P4PPP/1R2R1K1 w - - 0 17
+d6
+Passed pawns must be pushed. Open the diagonal for the bishop.
+2r1r1k1/1b2bpp1/pn2pn1p/qp1pN3/3P3B/P2BP3/1P2NPPP/1Q1R1RK1 b - - 0 17
+Nc4
+Knight to an outpost.
+7r/4k1p1/p1p2r2/2n1p3/1p2n3/1B2R1P1/PPP1N3/5RK1 b - - 0 38
+Rfh6
+Double on the open file. Create threats (against opponent's king).
+8/1p5p/p3k1p1/P1P2p2/4bP2/2P3PB/3K3P/8 w - - 0 39
+c4
+Restrict opponent's king movement.
+r1bq1rk1/4bppp/p2p1n2/1pp1p3/4P3/1nPPBN2/PP2NPPP/R2Q1RK1 w - - 0 12
+axb3
+Open a file for the rook.
+6rk/6pp/p2qp2b/1p5Q/1P6/P4R2/6PP/5R1K w - - 0 32
+Rf7
+Rook on the 7th rank.
+2kr3r/p4pp1/1qp2n1p/n1b1p3/8/3P1P1P/PPPNQ2P/R1B1KB1R b KQ - 0 14
+Nd5
+Centralize the knight. Target weak points (f4 and e3).
+---
+r3kb1r/p2q1ppp/1pn1pn2/1N1p4/Q1P5/6P1/PP2PPKP/RNB2R2 w kq - 0 11
+cxd5
+Open the center for attack. 
+r4rk1/pp1qppbp/2np2pn/8/2P5/1PN1P1Pb/PB1QNPBP/R4RK1 w - - 0 14
+Nd5
+Centralize the knight. Dispute the long diagonal.
+r2q3k/pp3bpp/nr6/1N1p1p2/3P1b2/Q2B1N2/PPR2PPP/4R1K1 w - - 0 21
+Ne5
+Centralize the knight. Knight on an outpost. Create threats (against the bishop on f7).
+r4rk1/pp2qppp/2p5/8/8/PQ1RP3/1P3PPP/3R2K1 b - - 0 19
+Rad8
+Dispute the open file.
+r1bqnrk1/ppp1ppbp/3p2p1/4P3/1nBP1P2/2N1BN2/PPP3PP/R2QK2R b KQ - 0 9
+Bf5
+Develop with a gain in tempo.
+r1b2rk1/pp2qp1p/6p1/3p4/8/3QPN2/PP3PPP/2R1K2R b K - 0 14
+Bf5
+Develop with a gain in tempo.
+r1b2rk1/pp1nqp1p/6p1/2pp4/3P4/3BPN2/PPQ2PPP/R3K2R w KQ - 0 12
+dxc5
+Create an isolated pawn (on d5). Prevent a locked center (with ...c4). Prevent opponent's space advantage (with ...c4).
+r4rk1/pp3ppp/2p1q3/8/8/P1R1P3/1P3PPP/3Q1RK1 w - - 0 17
+Rd3
+Double on the open file.
+r2qr1k1/4bpp1/b1p1p2p/3nP3/1p1PB3/1N2B3/1PQ2PPP/R1R3K1 b - - 0 21
+Bb5
+Defend as actively as possible.
+2bqnrk1/1pp3b1/6pp/2nPp3/2N1Pp2/2N4P/5PP1/Q1B1KB1R w K - 0 19
+Ba3
+Develop with a gain in tempo. Pin a piece.
+---
+r3nr2/p4Nk1/b1p1R1P1/2p4B/4Pp2/3n4/PPK1NP2/7R w - - 0 32
+Bf3
+Intending Rh7.
+3r2k1/5pp1/7p/1p1q4/1PnNp3/1Q2P1BP/1b3PP1/1R4K1 b - - 0 31
+Bxd4
+Trade for a better piece. Win a pawn.
+r2qr1k1/1b1nbpp1/p1p1pn1p/1p6/3P1B2/P1N1PN2/BPQ2PPP/2R2RK1 b - - 0 14
+c5
+Dispute the center. Open the long diagonal for the bishop.
+5rk1/6bp/3Q4/1p2r1q1/4pp2/2P2P2/1P2B1PP/R2R2K1 b - - 0 28
+e3
+Create a (protected) passed pawn.
+r1bq1rk1/pp3ppp/2n2n2/8/3p4/P2B4/1PP1NPPP/R1BQ1RK1 b - - 0 12
+Re8
+Rook on an open file.
+r5k1/4bppp/pq1p1n2/4pP2/2r1P3/1NN5/1PP3PP/R2Q1R1K w - - 0 18
+Qe2
+Defend weak points (e4). Complete development. Create threats (against the rook).
+2k5/5p2/p3pqpp/1pP5/1P2pP2/P1r1P3/1Q3KPP/5R2 w - - 0 40
+g3
+Protect the king (from check on h4).
+rnbq1rk1/1p2bppp/p2p4/3Pp3/2P5/2NB4/PP3PPP/R1BQ1RK1 b - - 0 12
+f5
+Gain space where there is a pawn majority.
+3rrnk1/2p2q2/p2b1pp1/2p5/1p2PPQN/2B3P1/PPP5/1K1RR3 w - - 0 25
+Nf5
+Create threats (fork after Nh6).
+---
+3q2k1/pp2bb1p/3r2p1/PN1pNp2/1P1P4/1Q6/2r2PPP/2R3K1 w - - 0 34
+Qxc2
+Double on the open file.
+r2qkb1r/2pb2pp/p1np1pn1/1p2p3/3PP3/1BN1BN2/PPPQ1PPP/R3K2R b KQkq - 0 10
+Na5
+Trade for a more active piece.
+r1bq1rk1/p3npp1/2p4p/n1b1p3/2P5/3P3N/PP2BPPP/RNBQ1R1K b - - 0 13
+Bxh3
+Weaken opposing pawn structure.
+r2b1r2/1q4k1/n1p2pp1/p3p2p/P1Q1P3/2P1BN1P/1P2R1PK/5R2 w - - 0 30
+Rd2
+Rook on an open file.
+5k2/8/1p3q1p/p2p2p1/2rP2R1/2PQ3P/P5PK/8 w - - 0 40
+Rg3
+Intending Rf3.
+2k5/5pq1/p3p1pp/1pPp4/1P2nP2/P1r1P3/1Q4PP/1B3RK1 w - - 0 38
+Bxe4
+Trade for a more active piece.
+3q4/5k1p/1p4pP/p1n1bp2/P1R1p1P1/2P5/2P1BQ2/7K b - - 0 50
+Qg5
+Defend the pawn on f5. Create threats (against opponent's king).
+---
+r3k2r/1p3ppp/pqnp1b2/4pP2/P3P3/1PN5/1P2B1PP/R2QK2R w KQkq - 0 14
+Nd5
+Knight on an outpost.
+4r1k1/1b1r1p1p/5p2/3p4/1bpN4/2N1P3/1P3PPP/2RR2K1 w - - 0 25
+Nf5
+Improve knight's position.
+r3k2r/1n1bq1pN/p1pp2n1/1p2p1Q1/4P3/1BN5/PPP2PPP/R2R2K1 b q - 0 18
+Nf4
+Improve knight's position. Pressure on opponent's king position.
+1r4k1/2p1q3/4P2b/Q3p2p/4P2R/5pP1/B4P2/4K3 b - - 0 31
+Rb2
+Rook on the 2nd rank. Create threats (Bd2+).
+r1b2rk1/2q1bppp/p2p1n2/1pp1p3/4P3/1PPPBNN1/1P3PPP/R2Q1RK1 b - - 0 13
+d5
+Open the diagonal for the bishop (on e7).
+8/6p1/4n1kp/3R1p2/4p3/6P1/2P2K2/8 w - f6 0 47
+c4
+Passed pawns must be pushed.
+q4rk1/1b2bpp1/p3p2p/1p1n4/1PnN4/PQN1PBB1/5PPP/2R3K1 b - - 0 22
+Rc8
+Rook on an open file.
+2r3k1/1p3pp1/3p3p/1B1P4/P1P2P2/6Pb/3R3P/6K1 w - - 0 40
+Re2
+Rook on an open file.
+r2q1rk1/1b1nbppp/p4n2/2pp2B1/8/P1NBPN2/1P2QPPP/2R2RK1 b - - 0 13
+Re8
+Rook opposite opponent's queen.
+4r3/Rb3pkp/5p2/2rpb3/2p5/2N1P1P1/1P1RNP1P/6K1 b - - 0 30
+Rb8
+Defend the bishop on b7. Exert indirect pressure (on b2).
+---
+7r/4k1p1/p1pp3r/1pn1p1n1/4P3/1BN1R1Pb/PPP2P2/4RNK1 b - - 0 31
+Bg4
+Clear a path for the rooks. Create threats (Rh1, Bf3)
+3q4/5k1p/1p3bpP/p1n1pp2/P1R3P1/2P1QB2/2P5/7K b - g3 0 48
+e4
+Restrict opponent's movement. Open the diagonal for the bishop on f6. Create threats (against bishop on f3).
+6rk/5ppp/p2pp2b/1p1qPP2/1PrB4/P1P3RQ/6PP/5R1K w - - 0 27
+fxe6
+Open a file for the rook.
+r2q1rk1/1bpnbppp/pp3n2/3p2B1/3P4/P1NBPN2/1P3PPP/2RQ1RK1 b - - 0 11
+c5
+Dispute the center.
+rn1qkbnr/pp2pppp/2p5/5b2/3P4/6N1/PPP2PPP/R1BQKBNR b KQkq - 0 5
+Bg6
+Preserve the bishop pair. Maintain pressure (on c2).
+r1b1k2r/ppp2ppp/2n2q1n/4p3/2B5/B1Q2N2/P4PPP/R4RK1 w kq - 0 13
+Rfe1
+Increase pressure on e5. Rook opposite opponent's king.
+6k1/qr1npr1p/p2p1pp1/3P4/2P3P1/2Q4P/P1B1RRPK/8 b - - 0 25
+Ne5
+Centralize the knight. Knight on an outpost.
+r2q2k1/pp1b1r1p/3p2n1/3Pp1bn/4P3/3N1P2/PPRNB1PB/2R1Q1K1 b - - 0 25
+Be3+
+Create entry point for the queen with a gain in tempo.
+2r2k2/1p3pp1/3p4/1B1P3p/P1P2P2/6Pb/4RK1P/8 w - - 0 42
+Ke3
+Centralize the king.
+---
+2b5/1p6/1K1p2k1/1BrP2p1/P1P5/6P1/7R/8 w - - 0 51
+Rh8
+Target weaknesses (Rd8 next).
+r2qr1k1/1b1nbppp/2p1p3/p3P3/1p1PB3/P3BN2/1P3PPP/R2Q1RK1 b - - 0 16
+Nb6
+Centralize the knight (Nd5 next).
+r1bq1rk1/ppp2pb1/3p1npp/2nPp3/2P1P3/2N1B2P/PP1N1PP1/R2QKB1R b KQ - 0 10
+a5
+Secure the knight's position (by preventing b4).
+5k2/1b2qpb1/p7/1p2pB2/7r/8/PPN2PPP/2RQ2K1 b - - 0 32
+Bh6
+Activate the bishop with a gain in tempo.
+r1bq1rk1/pppn2bp/3p2pn/3Pp3/2P1Pp1P/2N2NP1/PP3PB1/R1BQK2R w KQ - 0 10
+Ng5
+Create threats (Ne6).
+2b2rk1/1p1n2pp/3p4/3Pppq1/1PP5/2NB1P2/6PP/Q4R1K b - - 0 19
+Qe3
+Control key squares.
+q4rk1/1bpnbppp/2np4/4p3/3PP3/2P2N2/2BN1PPP/2BQR1K1 w - - 0 17
+Nf1
+Improve the knight's position (heading for the kingside). Open diagonal for the bishop.
+r3r1k1/pb3ppp/4p3/2p1P3/8/2P1Q3/1qB2PPP/2RR2K1 w - - 0 23
+Qd3
+Create threats (Qxh7+ or Rb1).
+---
+r2q1rk1/1bpnbppp/p1np4/1p2p3/P3P3/1B1P1N2/1PPN1PPP/R1BQR1K1 w - - 0 11
+c3
+Control key squares (d4). Expand the bishop's range (c2).
+1r6/Rb3pkp/5p2/2rpb3/2pN4/2N1P1P1/1P1R1P1P/6K1 b - - 0 31
+Kg6
+Control key squares (f5).
+3rr1k1/2p1q1pp/p2b1pn1/1pp5/4P2P/2B2NP1/PPP1QP2/1K1RR3 w - - 0 20
+h5
+Kick the knight away. H file attack.
+5k2/pp4p1/8/6Nb/7p/N1Pnr3/PP4PP/R5Kn b - - 0 19
+Nhf2
+Improve knight's position.
+3r1b1k/5pp1/q1p1pN1p/1b2P3/3P2Q1/1p2P3/1P4PP/1BR3K1 w - - 0 31
+Qe4
+Create threats (Qh7#). Provoke a weakness (g6). Secure the knight's position.
+r2q1rk1/1p2bppp/2bppn2/p7/Pn2PP2/1NN1BB2/1PP3PP/R2Q1RK1 w - - 0 13
+Nd4
+Centralize the knight.
+2r3k1/5pp1/pq2pn1p/1p6/3N4/P3P3/1P3PPP/1R2Q1K1 b - - 0 25
+Qc7
+Secure control of the open file.
+2rrb1k1/p3qppp/1pp1p2b/8/1P1PP2P/P1QN1BP1/5P2/1R1R2K1 w - - 0 25
+Ne5
+Centralize the knight. Overprotect d4. Create threats (Ng4).
+5r2/3bk1p1/p1pp2r1/1pn1p1n1/4P3/1BN3P1/PPP1RPKN/4R3 b - - 0 28
+Rh6
+Rook on an open file.
+r2qk2r/1pp2ppp/p1pb2n1/4p3/3PP1b1/4BN2/PPPN1PPP/R2QK2R w KQkq - 0 9
+h3
+Kick the bishop away. Break the pin.
+---
+2rqbrk1/3npp1p/p1np2p1/1p1N4/2P2P2/PP2P1PP/1Q2N1B1/R2R2K1 w - b6 0 20
+Rac1
+Exert indirect pressure (on the c8 rook).
+r4rk1/pppqnp1p/1b1p1p2/3P4/2N1P3/5N2/P4PPP/R2Q1RK1 w - - 0 16
+Nh4
+Create entry point for the queen.
+6rk/6pp/p3p2b/1p5Q/1P1q4/P5R1/6PP/5R1K w - - 0 31
+Rgf3
+Double on the open file. Create threats (rook on the 7th).
+r1bq1rk1/pppnnpbp/3p2p1/3Pp3/2P1P3/2N1B3/PP2BPPP/R2QNRK1 b - - 0 10
+f5
+Gain space. Dispute the center.
+4r3/1p1nkp2/p1p1b1p1/4P2p/5P1P/1PN2BP1/P2R1K2/8 w - - 0 29
+Ne4
+Centralize the knight. Control key squares (c5, f6, d6).
+r2qnrk1/pb2ppbp/1p4p1/2pP4/2B1PB2/1Q3N2/P4PPP/1R2R1K1 w - - 0 16
+e5
+Restrict opponent's knight. Gain space.
+1r6/2r1p1kp/3pQbp1/p2P1p2/P4P2/6PK/7P/5B2 b - - 0 39
+Rb2
+Rook on the 7th.
+r4k1r/pp1qnppp/1bpN3n/3pP3/P2P4/5N2/1B3PPP/R2Q1RK1 w - - 0 17
+Ba3
+Activate the bishop. Exert indirect pressure (on the king).
+r2q1rk1/1p1bbppp/3ppn2/p7/Pn2PP2/1NN1BB2/1PP3PP/R2Q1RK1 b - - 0 12
+Bc6
+Bishop on the long diagonal.
+---
+1r3r1k/1pq3pp/pR6/P1pPp1b1/1P2RpB1/8/3Q1PPP/6K1 w - - 0 29
+d6
+Passed pawns must be pushed.
+r7/ppq3b1/2p1k1p1/3p1pB1/3P4/8/PPPQ1P2/2K3R1 w - - 0 27
+Re1
+Rook on an open file. Create threats (rook on the 7th).
+rnbqk2r/pp2ppbp/2p2np1/3p4/3PP3/2N2N1P/PPP2PP1/R1BQKB1R w KQkq - 0 6
+e5
+Gain space with a gain in tempo.
+2rrb1k1/p3qppp/1pp1p2b/4N3/1P1PP2P/P1Q2BP1/5P2/1R1R2K1 b - - 0 25
+g6
+Preserve the bishop pair (escape square if Ng4).
+5rk1/6rp/3p4/1p1Pp1qn/4P3/1N1NbP2/1PR3QB/3R3K b - - 0 36
+Qh4
+Create threats (Ng3) with a gain in tempo.
+5rk1/pp2qp1p/2p3p1/8/8/P2RP2P/1P3PP1/3Q2K1 b - - 0 22
+Qe5
+Centralize the queen. Create threats (against b2).
+2B5/7K/1k4p1/p4p1b/2P2P2/6P1/7P/8 w - - 0 50
+Bd7
+Stop the passed pawn from advancing.
+2r1k2r/pbqnbpp1/1pp1pn1p/3p4/2PPP3/1PNB1N2/PBQ2PPP/3R1RK1 b k - 0 12
+dxe4
+Prevent the e5 advance.
+2k5/2r1bp2/pq1np1pp/1p1p4/3P1N2/PP2P3/4QPPP/1B3RK1 w - - 0 32
+Nd3
+Knight to an outpost (c5 or e5).
+1r1q1r1k/1p4pp/pR1P4/P1P1p1b1/4R1B1/5p2/3Q1PPP/6K1 w - - 0 31
+Qd5
+Centralize the queen. Create threats (against b7).
+---
+r4rk1/1pqbbppp/p1nppn2/8/3NPP2/2N1B3/PPP1B1PP/R3QR1K w - - 0 12
+Qg3
+Support e5. Queen opposite opponent's king.
+1rn1nqk1/3b1rbp/p2p1pp1/P1pP3P/2P1PBP1/3B2N1/R5KN/2Q2R2 w - - 0 32
+Raf2
+Increase pressure on a contested file.
+r1br2k1/1p2ppbp/1qp2np1/p3B3/P2P4/1PN5/2P1BPPP/R2QR1K1 w - - 0 14
+Bc4
+Pressure on the a2-g8 diagonal. Point bishop at opposing king. Clear a path for the rook.
+r2q2k1/pp1b1r1p/3p2n1/3Pp2n/4P3/3NbP2/PPRNB1PB/2R1Q2K b - - 0 26
+Qg5
+Add more pieces to the attack.
+3r1r2/pp3k1p/2n4n/1N1p1p2/7p/1P1NP1P1/P4PK1/3R1R2 w - - 0 27
+Rh1
+Preserve pawn structure (recapture with the rook instead).
+5q1k/1p1r4/p1n4p/P3p1pQ/8/4R3/1P3PP1/1B4K1 w - - 0 39
+Rf3
+Force the queen away.
+2bqnrk1/1ppn1pb1/3p2pp/2PPp3/1P2P3/2N1B2P/3N1PP1/Q3KB1R b K - 0 15
+f5
+Dispute the center. Create threats (f4).
+4r1k1/1b1r1ppp/5n2/3p2B1/1bpN4/2N1P3/1P3PPP/2RR2K1 w - - 0 24
+Bxf6
+Weaken pawn structure protecting opponent's king.
+4r1k1/1b1r1p1p/5p2/3pb3/2p5/2N1P3/1PR1NPPP/3R2K1 w - - 0 27
+Rcd2
+Increase pressure on a backward pawn.
+---
+4Q3/1p1r2k1/p1nq3p/P3p1p1/8/5R2/1P3PP1/1B4K1 w - - 0 41
+Ba2
+Adding support to the g8 square.
+r6r/1n1bk1p1/p1pp4/1p2p1N1/4Pn2/1BN5/PPP2PPP/R2R2K1 b - - 0 20
+Rh5
+Create threats (Rxg5). Double on the h file.
+r2q1rk1/3nbppp/b1n1p2P/p1ppP3/1p6/3P1NP1/PPP2PB1/R1BQRNK1 b - - 0 13
+g6
+Keep the file in front of the king closed.
+1n1b1r2/1q4k1/2p1Qpp1/p3p2p/P3P3/2P1BN1P/1P4PK/3R4 w - - 0 34
+Bc5
+Improve the bishop's position. Force the rook to a worse square.
+2r1b1k1/p4p2/4qPp1/2p4p/7P/P1Q2BP1/5P2/3R2K1 b - - 0 34
+Bc6
+Trade for a more active piece.
+r2q1rk1/pp1bbp1p/4p1p1/3nP3/4Q3/P4N2/1P3PPP/RBB2RK1 w - - 0 17
+Bh6
+Develop a piece with tempo. Create threats (Bxf8). Take advantage of dark square weaknesses.
+r1b2rk1/pp2bppp/2n1p3/2pq4/3P4/3BPN2/PP3PPP/R1BQ1RK1 w - - 0 10
+e4
+Dispute the center with a gain in tempo. Open a diagonal for the bishop (on c1).
+7r/5p2/p3bk2/1p2p3/4P3/P2B2R1/1P4KP/8 b - - 0 44
+Rd8
+Rook on an open file. Pressure (on the bishop on d3).
+r1bq1rk1/1p2bppp/p1n1pn2/8/P1BP4/2N2N2/1P2QPPP/R1BR2K1 b - - 0 11
+Nd5
+Centralize the knight. Blockade the pawn.
+4rbk1/2nq2p1/5p1p/B1p2P2/2P2N2/1Q6/1P4PP/4R2K w - - 0 40
+Rd1
+Preserve the rook (back rank defender). Create threats (RxQ, or Bxc7 if the queen moves).
+---
+r1n2bk1/2qb1rnp/p2p1pp1/PppPp3/2P1P1PP/1P4N1/R1B2P1N/2BQR1K1 w - - 0 24
+f4
+Open lines for attack.
+r1bq1rk1/ppp1n1bp/3p1n2/3Pp1p1/2P1Pp2/2NN1P2/PP2BBPP/R2Q1RK1 w - - 0 14
+c5
+Increase space advantage (on the queenside).
+r2q1rk1/ppp1n1bp/3p2p1/3P4/4NBb1/5N2/PPPQ2PP/3R1RK1 w - - 0 18
+Rde1
+Remove the pin. Rook on an open file.
+r1bq1rk1/pppnn1bp/3p2p1/3Ppp2/2P1P3/2N1BP2/PP2B1PP/R2QNRK1 b - - 0 11
+f4
+Increase space advantage (on the kingside). 
+2r1r3/1b1NkppB/p3pb1p/qp1p4/2nP4/P3P3/1P2NPPP/1Q1R1RK1 w - - 0 21
+Nc5
+Knight on an outpost. Block open file. Create threats (Nxb7).
+r1bq1rk1/pp3pp1/2nb1n1p/1B1p4/3P4/2N2N1P/PP3PP1/R1BQ1RK1 w - - 0 11
+Re1
+Rook on an open file. Support e5.
+3q1r1k/1Q1P2pp/2P2b2/p4R2/6B1/8/5PKP/8 w - - 0 39
+c7
+Passed pawns must be pushed.
+r1n1rbk1/2qb1p1p/p2p2p1/PppPp2n/2P1P3/1P3N1P/R1B1NPP1/2BQR1K1 w - - 0 20
+g4
+Kick the knight away.
+1rb1nqk1/4nrbp/p2p1p2/P1pP3p/2P1P1P1/3B1RN1/2QB3N/5R1K w - - 0 37
+Nxh5
+Add more pieces to the attack.
+---
+r2qkb1r/1p1n1ppp/p2pbn2/4p3/4P3/1NN1BP2/PPP3PP/R2QKB1R w KQkq - 0 9
+Qd2
+Prepare to castle queenside. Prepare for a kingside attack.
+2n1rrk1/pppq2bp/3p2p1/3P2N1/2P2Bb1/5N2/PP1Q2PP/4RRK1 w - - 0 21
+Nd4
+Centalize the knight. Knight to an outpost (heading to e6).
+1r3r2/1p4k1/3p1pp1/p1bBp2P/P3P1P1/1P1K3R/1P6/5R2 w - - 0 29
+hxg6
+Open a file for the rook.
+r3kb1r/1pqn1ppp/p2p1n2/4pP2/2b1P3/1NN5/PPP1B1PP/R1BQ1RK1 w kq - 0 11
+a4
+Preventing b5.
+2k5/2r1bp2/pq2p1pp/1p1p4/3Pn3/PP1NP3/4QPPP/1B3RK1 w - - 0 33
+b4
+Secure c5 (for Nc5).
+4R3/p4p2/1nPb3p/3k4/5P2/6P1/P3K2P/8 w - - 0 38
+c7
+Passed pawns must be pushed. Rook on the 7th (if Bxc7).
+5k2/5pp1/1p2q2p/p2pP3/2rP1R2/2P3QP/P5PK/8 w - - 0 37
+Rg4
+Weaken opposing pawn structure.
+r1bq2k1/ppp2r1p/3b1nn1/P2Pp1p1/1P2Pp2/2N2P2/4BBPP/R2QNRK1 w - - 0 18
+Nd3
+Centralize the knight (Nc5 next).
+r1b3k1/2p2r2/2Np4/P2Pp1q1/P3Ppnb/2N2B2/4R1P1/1R1Q2K1 b - - 0 30
+Bg3
+Clear a path for the rook and queen.
+---
+2rrb1k1/p3qpb1/4p1p1/2pPP2p/7P/P1Q1NBP1/5P2/1R1R2K1 b - - 0 30
+exd5
+To prevent d6.
+r2qkbr1/4n2p/2b1p1p1/p1NnQ3/1p1P4/P5P1/1P3PBP/R1B2RK1 w q - 0 19
+Bg5
+Add more pieces to the attack.
+2r3k1/4bpp1/p3p2p/1p1q4/PPnN4/1Q2P1B1/5PPP/2R3K1 b - - 0 25
+Bf6
+Kick the knight away or trade for a more active piece.
+r4rk1/pp3ppp/2nq1nb1/6B1/3p4/P2B1P2/1PP1N1PP/R3QRK1 w - - 0 16
+Rd1
+Target weaknesses (Indirect pressure on d4).
+5rk1/2p1q3/4P2b/Q3p2p/2B1P2R/5pP1/5P2/4K3 b - - 0 30
+Rb8
+Rook on an open file. Create threats (Rb1#).
+r1bq2k1/1p1nrpp1/p1p2n1p/3p4/3P4/P1NBPN1P/1PQ2PP1/2R2RK1 b - - 0 15
+Ne8
+Centralize the knight (Nd6 next).
+rnb2rk1/ppq2pb1/2p2npp/4p3/2N1P2B/1B3N2/PPP1QPPP/R3K2R b KQ - 0 11
+Nh5
+Defend the pawn. Create threats (Nf4).
+2N1nk2/1p3pbp/p1p3p1/4p3/3nP3/4BP1P/PPP3P1/3B2K1 w - - 0 22
+c3
+Kick the knight away.
+---
+r1bqkb1r/pp3ppp/2pp4/8/2nPB2N/6P1/PP2PP1P/R1BQK2R w KQkq - 0 10
+d5
+Prevent opponent's d5 advance.
+6k1/2p1q3/4P2b/4p2p/Q3P2R/5pP1/B3rP2/5K2 b - - 0 33
+Bd2
+Create theats (Re1#). Restrict opposing king (after Re1).
+r2q1rk1/pp1bbppp/4p3/3nP3/8/P4N2/1P2QPPP/RBB2RK1 w - - 0 16
+Qe4
+Weaken opposing pawn structure (after g6). Qd3 and Qc2 also work.
+r1bq1rk1/pp2bppp/4p3/4P3/1n6/3B1N2/PP2QPPP/R1B2RK1 w - - 0 14
+Be4
+Preserve the bishop pair. Bishop on the b1-h7 diagonal.
+3q1rk1/Bp2pp1p/3b1np1/5n2/8/P1P2R2/2P3PP/3RQBK1 b - - 0 22
+b6
+Trap the bishop.
+6k1/1pp2r1p/3p4/p2P1q2/2P1Rr2/P7/1P2Q3/K3R3 w - - 0 32
+Rg1
+Rook on an open file. Restrict opposing king.
+---
+4rk2/p3qpb1/1p5p/2pRP2P/P1P1Q3/1P3NK1/5P2/8 w - - 0 41
+Qf5
+Improve queen's position. Control key squares (for Rd7).
+r2q1k1r/1p1b1pb1/p2p3p/2pPn1p1/P7/2N1P1P1/1PQNBPP1/R3K2R w KQ - 0 17
+a5
+Prevent b5.
+r2q1rk1/ppbnnp1p/4p1p1/3pP3/1P1N1P2/P2B4/1BP3PP/R2Q1RK1 b - - 0 14
+Nb6
+Control key squares (next Na4, hitting b2 and c3).
+r3kn2/ppq3b1/2p3p1/3pPpB1/3P4/8/PPPQNP2/2K3R1 w q - 0 24
+Nf4
+Improve knight's position. Control key squares (e6).
+2r1r1k1/pb3ppp/1p1Bp3/2n1P3/8/q1P1Q3/2B2PPP/2RR2K1 w - - 0 22
+Rd4
+Prepare for a kingside attack.
+4R3/p1p2ppk/1p1r2q1/8/3p3P/5QP1/PP3P2/6K1 b - - 1 31
+Re6
+Trade for a more active piece (if opponent accepts). Rook on an open file (if opponent declines).
+1rr3k1/p2bp1bp/3p1np1/q7/2pNP1P1/2N1BP2/PPPQ4/1K1R3R w - - 0 18
+Ka1
+Remove pin on b pawn (protecting the knight). King to a closed file.
+r1bq1rk1/ppp1ppbp/3p1np1/3P4/1n2PP2/2N2N2/PPP1B1PP/R1BQK2R b KQ - 0 8
+c6
+Dispute the center. Open lines for attack (the c file).
+---
+---
+
+
+
+
+
+
+
+
